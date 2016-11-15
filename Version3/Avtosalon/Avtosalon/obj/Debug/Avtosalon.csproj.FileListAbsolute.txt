@@ -1,0 +1,13 @@
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\bin\Debug\Avtosalon.exe.config
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.csprojResolveAssemblyReference.cache
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.Form1.resources
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.Properties.Resources.resources
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.csproj.GenerateResource.Cache
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\bin\Debug\Avtosalon.exe
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\bin\Debug\Avtosalon.pdb
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\bin\Debug\MySql.Data.dll
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\bin\Debug\MySql.Data.xml
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.exe
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.pdb
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.Form2.resources
+E:\!МГВРК\32491\БД и СУБД\Курсовая работа\ifandfor products\Version3\Avtosalon\Avtosalon\obj\Debug\Avtosalon.Polnya_Informacia.resources
